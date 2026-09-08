@@ -1304,6 +1304,7 @@ summary:focus-visible {
     padding: 90px 0;
 
     background: #101b32;
+   color: white;
 }
 
 
@@ -1316,4 +1317,4 @@ summary:focus-visible {
 
     padding: 45px;
 
-    border: 1px solid rgba(255, 255,
+}
