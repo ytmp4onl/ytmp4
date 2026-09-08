@@ -1320,3 +1320,6 @@ summary:focus-visible {
 .legal-content h2,p {
    color: white;
 }
+.legal-points div strong,spam {
+   color: white;
+}
