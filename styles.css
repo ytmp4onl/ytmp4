@@ -1304,7 +1304,6 @@ summary:focus-visible {
     padding: 90px 0;
 
     background: #101b32;
-   color: white;
 }
 
 
@@ -1317,4 +1316,7 @@ summary:focus-visible {
 
     padding: 45px;
 
+}
+.legal-content h2,p {
+   color: white;
 }
